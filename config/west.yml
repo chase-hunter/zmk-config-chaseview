@@ -1,10 +1,10 @@
 manifest:
   remotes:
-    - name: zmkfirmware
-      url-base: https://github.com/zmkfirmware
+    - name: chase-hunter
+      url-base: https://github.com/chase-hunter
   projects:
     - name: zmk
-      remote: zmkfirmware
+      remote: chase-hunter
       revision: main
       import: app/west.yml
   self:
