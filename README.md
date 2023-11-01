@@ -14,3 +14,8 @@ always in progress zmk firmware designed for a 3x6 corne featuring nice!view and
 
 ### upper layer:
 ![image](https://github.com/chase-hunter/zmk-config-chaseview/assets/122387925/bc33a451-ffdb-4273-86e8-e003424b1c4c)
+
+## future changes:
+- custom start up screen for nice!view
+- toggle layers
+- double tap layers
