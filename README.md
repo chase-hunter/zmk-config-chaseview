@@ -4,6 +4,9 @@
 
 my firmware for a 3x6 corne featuring nice!view and nice!nano v2.0 
 
+> [!NOTE]
+> This firmware is a work in progress and users may encounter minor issues.
+
 ## current layout:
 
 ### base layer:
@@ -15,7 +18,11 @@ my firmware for a 3x6 corne featuring nice!view and nice!nano v2.0
 ### upper layer:
 ![image](https://github.com/chase-hunter/zmk-config-chaseview/assets/122387925/bc33a451-ffdb-4273-86e8-e003424b1c4c)
 
+## current custom display:
+
+![viewt1 - Copy](https://github.com/chase-hunter/zmk-config-chaseview/assets/122387925/df7b4391-176f-44f7-9c75-fa8c0289c627)
+
 ## future changes:
-- custom start up screen for nice!view
+- custom widget screen for left side nice!view
 - toggle layers
 - double tap layers
