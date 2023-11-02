@@ -2,7 +2,7 @@
 
 # welcome to chase!view
 
-always in progress zmk firmware designed for a 3x6 corne featuring nice!view and nice!nano v2.0
+my firmware for a 3x6 corne featuring nice!view and nice!nano v2.0 
 
 ## current layout:
 
