@@ -22,6 +22,8 @@ my firmware for a 3x6 corne featuring nice!view and nice!nano v2.0
 
 ![viewt1 - Copy](https://github.com/chase-hunter/zmk-config-chaseview/assets/122387925/df7b4391-176f-44f7-9c75-fa8c0289c627)
 
+https://github.com/chase-hunter/zmk/blob/fbc22d863072525c8f2ad120886aa6030351a75b/app/boards/shields/nice_view/widgets/art.c#L231-L341
+
 ## future changes:
 - custom widget screen for left side nice!view
 - toggle layers
