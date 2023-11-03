@@ -1,7 +1,6 @@
-# ![chase!view white left small](https://github.com/chase-hunter/zmk-config-chaseview/assets/122387925/3ed65cb8-aaa9-4b03-b188-99b72787ac76)
-[![zmk](https://img.shields.io/badge/zmk-black?logo=github&logoColor=white)](https://github.com/chase-hunter/zmk)
+# ![on text](https://github.com/chase-hunter/zmk-config-chaseview/assets/122387925/461e96b8-74b4-40e2-8f8c-425272b5bbf1)
+## [![zmk](https://img.shields.io/badge/zmk-black?logo=github&logoColor=white)](https://github.com/chase-hunter/zmk)
 # welcome to chase!view
-
 my firmware for a 3x6 corne featuring nice!view and nice!nano v2.0 
 
 > [!NOTE]
