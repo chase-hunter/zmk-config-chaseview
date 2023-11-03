@@ -6,14 +6,7 @@
 
 ## current layout:
 
-### base layer:
-![image](https://github.com/chase-hunter/zmk-config-chaseview/assets/122387925/c8bcaa47-44b9-49fe-b00f-5de055b4fb9c)
-
-### lower layer:
-![image](https://github.com/chase-hunter/zmk-config-chaseview/assets/122387925/62cd67b6-282e-4f77-9b77-82a7988e3503)
-
-### upper layer:
-![image](https://github.com/chase-hunter/zmk-config-chaseview/assets/122387925/bc33a451-ffdb-4273-86e8-e003424b1c4c)
+![my_keymap](https://github.com/chase-hunter/zmk-config-chaseview/assets/122387925/8d33ab60-a4fa-4082-a4f4-abc32512ac72)
 
 ## [current custom display:](https://github.com/chase-hunter/zmk/blob/fbc22d863072525c8f2ad120886aa6030351a75b/app/boards/shields/nice_view/widgets/art.c#L231-L341)
 
