@@ -28,3 +28,8 @@ https://github.com/chase-hunter/zmk/blob/fbc22d863072525c8f2ad120886aa6030351a75
 - custom widget screen for left side nice!view
 - toggle layers
 - double tap layers
+
+
+
+# ![bigspinnyfella](https://github.com/chase-hunter/zmk-config-chaseview/assets/122387925/a76f23eb-b24e-4258-8a24-4838a0a6ac37)
+
