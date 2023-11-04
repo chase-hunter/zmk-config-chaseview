@@ -20,13 +20,13 @@
         togglegamelayer {
             bindings = <&tog 3>;
             key-positions = <24 17>;
-            layers = <2>;
+            layers = <2 3>;
         };
 
         togglebaselayer {
             bindings = <&tog 0>;
             key-positions = <24 29>;
-            layers = <2>;
+            layers = <2 3>;
         };
 
         capslock {
