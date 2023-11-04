@@ -6,7 +6,7 @@
 
 ## current layout:
 
-![my_keymap](https://github.com/chase-hunter/zmk-config-chaseview/assets/122387925/8d33ab60-a4fa-4082-a4f4-abc32512ac72)
+![my_keymap](https://github.com/chase-hunter/zmk-config-chaseview/assets/122387925/a1a1dd3e-da4a-4a27-bed6-109def921a3b)
 
 ## [current custom display:](https://github.com/chase-hunter/zmk/blob/fbc22d863072525c8f2ad120886aa6030351a75b/app/boards/shields/nice_view/widgets/art.c#L231-L341)
 
