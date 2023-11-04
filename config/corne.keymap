@@ -17,20 +17,10 @@
             key-positions = <19 20>;
         };
 
-        chasepanel {
-            bindings = <&kp C_AL_CONTROL_PANEL>;
-            key-positions = <27 10>;
-        };
-
-        chasetask {
-            bindings = <&kp C_AL_TASK_MANAGER>;
-            key-positions = <5 31>;
-        };
-
         togglegamelayer {
             bindings = <&tog 3>;
-            key-positions = <24 29>;
-            layers = <1>;
+            key-positions = <24 17>;
+            layers = <2>;
         };
 
         togglebaselayer {
