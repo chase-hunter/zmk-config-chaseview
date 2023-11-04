@@ -11,7 +11,8 @@
 ## [current custom display:](https://github.com/chase-hunter/zmk/blob/fbc22d863072525c8f2ad120886aa6030351a75b/app/boards/shields/nice_view/widgets/art.c#L231-L341)
 
 
-![downsize testing](https://github.com/chase-hunter/zmk-config-chaseview/assets/122387925/062a0f4a-3d63-4c76-8ed8-dba0af7d030c)
+![downsize testing t2](https://github.com/chase-hunter/zmk-config-chaseview/assets/122387925/1c6a2c85-c960-46f8-a2d9-a9360b9ba719)
+
 
 
 ## future changes:
